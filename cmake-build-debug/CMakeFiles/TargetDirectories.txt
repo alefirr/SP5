@@ -1,0 +1,3 @@
+/Users/alefir/Unik/SP/Lab5/cmake-build-debug/CMakeFiles/Lab5.dir
+/Users/alefir/Unik/SP/Lab5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alefir/Unik/SP/Lab5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
